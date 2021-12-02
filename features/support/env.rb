@@ -7,9 +7,6 @@ require 'rspec'
 require 'rspec/expectations'
 require 'pry'
 require 'faker'
-# require 'page_objects'
-
-# World(PageObjects)
 
   ELEMENT = YAML.load_file("features/support/config/elements/elements.yml")
 

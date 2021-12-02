@@ -1,0 +1,7 @@
+---
+  default: -p pretty -p chrome -p html -p json
+
+  chrome: BROWSER=chrome
+  html: --format html --out=report/report.html
+  json: --format json --out=report/report.json
+  pretty: --format pretty

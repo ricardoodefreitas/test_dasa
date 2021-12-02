@@ -1,0 +1,29 @@
+#lements
+
+to_do:     'TODO'
+done:      'DONE'
+edit_text: 'input[data-v-524c8880]'
+add_grid:  '.material-icons'
+grid:      '#app > section > ul > li'
+grid_tem:  '#app > section > ul > li:nth-child(1)'
+
+
+
+
+
+# todo
+#     find('.router-link-exact-active.active').text
+#     # find_link
+#     find_link('TODO').click
+#     find_link('DONE').click
+
+#     # input
+#     find('input[data-v-524c8880]').send_keys('f')
+    
+#     add
+#     find('.material-icons', text: 'add').click
+
+#app > section > ul
+
+#app > section > ul
+#app > section > ul > li:nth-child(1)
